@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur123&label=Profile%20views&color=0e75b6&style=flat" alt="naimur123" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **Vuejs**
 
 - 👨‍💻 All of my projects are available at https://github.com/naimur123
 - 📫 How to reach me **naimurrahmansagar@gmail.com**
